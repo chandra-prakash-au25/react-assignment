@@ -58,6 +58,11 @@ npm run dev
 yarn dev
 
 
+### test 
+for testing the application
+you can login with any username and password in format like Chandra@1234
+
+
 src/
   ├── components/
   │   ├── home/
