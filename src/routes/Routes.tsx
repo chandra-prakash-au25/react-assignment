@@ -8,7 +8,7 @@ import Login from '../pages/login/Login';
 
 const Routes: RouteObject[] = [
   {
-    path: '/',
+    path: '*',
     element: <Navigate to={ROUTES.LOGIN} replace />,
   },
   {
